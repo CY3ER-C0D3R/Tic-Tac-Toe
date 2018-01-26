@@ -1,0 +1,32 @@
+C:\Users\admin\Documents\יובל שונות\C_Learning\Tic-Tac-Toe-2\Tic-Tac-Toe-2\obj\Debug\Tic_Tac_Toe.Form1.resources
+C:\Users\admin\Documents\יובל שונות\C_Learning\Tic-Tac-Toe-2\Tic-Tac-Toe-2\obj\Debug\Tic_Tac_Toe.Options.resources
+C:\Users\admin\Documents\יובל שונות\C_Learning\Tic-Tac-Toe-2\Tic-Tac-Toe-2\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\admin\Documents\יובל שונות\C_Learning\Tic-Tac-Toe-2\Tic-Tac-Toe-2\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\יובל שונות\C_Learning\Tic-Tac-Toe-2\Tic-Tac-Toe-2\obj\Debug\Tic-Tac-Toe.exe
+C:\Users\admin\Documents\יובל שונות\C_Learning\Tic-Tac-Toe-2\Tic-Tac-Toe-2\obj\Debug\Tic-Tac-Toe.pdb
+C:\Users\admin\Documents\יובל שונות\C_Learning\Tic-Tac-Toe-2\Tic-Tac-Toe-2\bin\Debug\Tic-Tac-Toe.exe.config
+C:\Users\admin\Documents\יובל שונות\C_Learning\Tic-Tac-Toe-2\Tic-Tac-Toe-2\bin\Debug\Tic-Tac-Toe.exe
+C:\Users\admin\Documents\יובל שונות\C_Learning\Tic-Tac-Toe-2\Tic-Tac-Toe-2\bin\Debug\Tic-Tac-Toe.pdb
+C:\Users\admin\Documents\יובל שונות\C_Learning\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+C:\Users\admin\Documents\יובל שונות\C_Learning\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+C:\Users\admin\Documents\יובל שונות\C_Learning\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+C:\Users\admin\Documents\יובל שונות\C_Learning\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\יובל שונות\C_Learning\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Form1.resources
+C:\Users\admin\Documents\יובל שונות\C_Learning\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Options.resources
+C:\Users\admin\Documents\יובל שונות\C_Learning\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\admin\Documents\יובל שונות\C_Learning\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\יובל שונות\C_Learning\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+C:\Users\admin\Documents\יובל שונות\C_Learning\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
+E:\School\cyber\WinForms\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+E:\School\cyber\WinForms\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+E:\School\cyber\WinForms\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
+E:\School\cyber\WinForms\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+E:\School\cyber\WinForms\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+E:\School\cyber\WinForms\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojResolveAssemblyReference.cache
+E:\School\cyber\WinForms\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Form1.resources
+E:\School\cyber\WinForms\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Options.resources
+E:\School\cyber\WinForms\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+E:\School\cyber\WinForms\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.Cache
+E:\School\cyber\יב\WinForms\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+E:\School\cyber\יב\WinForms\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+E:\School\cyber\יב\WinForms\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
